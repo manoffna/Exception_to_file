@@ -1,0 +1,6 @@
+java.io.FileNotFoundException: D:\GB_attempt2\myProjects\untitled\src\com\company\demo1234.txt (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at com.company.Main.main(Main.java:25)
